@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{A3CCCB82-4050-2823-936F-5F85955F9484}",
+	"EngineAssociation": "{EF72BC6B-4FBC-195C-F82D-D2B4C28EA008}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,10 @@
 		},
 		{
 			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
 		}
 	]
